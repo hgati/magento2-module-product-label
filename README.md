@@ -1,6 +1,6 @@
 ```
 composer config repositories.hgati-label git git@github.com:hgati/magento2-module-product-label.git
-composer require smile/module-product-label:1.0.0
+composer require smile/module-product-label:1.0.2
 ```
 Product Label Management
 ========================
